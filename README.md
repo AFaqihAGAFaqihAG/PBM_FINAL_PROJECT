@@ -6,7 +6,7 @@ Aplikasi penjadwalan tugas harian adalah sebuah aplikasi yang memungkinkan pengg
 
 ## Nama Anggota
 
-Projek ini dibuat oleh 2 orang, yaitu :
+Proyek ini dibuat oleh 2 orang, yaitu :
 
 * Muhammad Rizky Hidayah Akbar (2008107010034)
 * Ahmad Faqih Al Ghiffary (2108107010072)
