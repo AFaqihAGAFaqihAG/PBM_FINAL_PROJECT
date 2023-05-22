@@ -8,40 +8,40 @@ Aplikasi penjadwalan tugas harian adalah sebuah aplikasi yang memungkinkan pengg
 
 * Tampilan Awal
 
-![](TampilanAwal.jpg)
+<img src="TampilanAwal.jpg" width="300" alt="Tampilan Awal">
 
 * Tambah Catatan Baru
 
-![](TambahNoteBaru.jpg)
+<img src="TambahNoteBaru.jpg" width="300" alt="Tambah Catatan Baru">
 
 * Tampilan Ketika Berhasil Ditambah
 
-![](BerhasilDitambah.jpg)
+<img src="BerhasilDitambah.jpg" width="300" alt="Tampilan Ketika Berhasil Ditambah">
 
 * Tampilan Ketika Gagal Ditambah
 
-![](GagalDitambah.jpg)
+<img src="GagalDitambah.jpg" width="300" alt="Tampilan Ketika Gagal Ditambah">
 
 * Tampilan Layar Setelah Ditambah Catatan
 
-![](TampilanSetelahDitambah.jpg)
+<img src="TampilanSetelahDitambah.jpg" width="300" alt="Tampilan Layar Setelah Ditambah Catatan">
 
 * Tampilan Catatan Dengan Deskripsi Catatan
 
-![](TampilanDenganDeskripsi.jpg)
+<img src="TampilanDenganDeskripsi.jpg" width="300" alt="Tampilan Catatan Dengan Deskripsi Catatan">
 
 * Tampilan Layar Saat Edit Catatan
 
-![](EditNote.jpg)
+<img src="EditNote.jpg" width="300" alt="Tampilan Layar Saat Edit Catatan">
 
 * Tampilan Setelah Edit Catatan
 
-![](TampilanSetelahEdit.jpg)
+<img src="TampilanSetelahEdit.jpg" width="300" alt="Tampilan Setelah Edit Catatan">
 
-* Menambah Catata Baru
+* Menambah Catatan Baru
 
-![](TambahkanNoteBaru2.jpg)
+<img src="TambahkanNoteBaru2.jpg" width="300" alt="Menambah Catatan Baru">
 
 * Tampilan Setelah Ditambah Catatan Baru
 
-![](TampilanSetelahDitambah.jpg)
+<img src="TampilanSetelahDitambah2.jpg" width="300" alt="Tampilan Setelah Ditambah Catatan Baru">
