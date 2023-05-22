@@ -53,3 +53,8 @@ Kita dapat menambah catatan-catatan lain, berikut contohnya
 ### Tampilan Setelah Ditambah Catatan Baru
 
 <img src="TampilanSetelahDitambah2.jpg" width="300" alt="Tampilan Setelah Ditambah Catatan Baru">
+
+### Tampilan Hapus Catatan
+Dengan menekan icon "tong sampah" pada suatu catatan akan muncul seperti gambar dibawah, dengan menekan tombol "Cancel" akan membatalkan aksi penghapusan dan tombol "Ok" akan menghapus catatan tersebut.
+
+<img src="HapusCatatan.jpg" width="300" alt="Tampilan Setelah Ditambah Catatan Baru">
