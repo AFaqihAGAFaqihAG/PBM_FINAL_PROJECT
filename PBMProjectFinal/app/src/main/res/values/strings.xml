@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">To Do Notes</string>
+    <string name="delete_note">Delete</string>
+    <string name="add_notes">Add Note</string>
+    <string name="list_notes">List Notes</string>
+    <string name="please_fill_in_all_before_saving">Please fill in all before saving</string>
+    <string name="error_title">Error!</string>
+    <string name="ok">Ok</string>
+    <string name="not_selected">Not Selected</string>
+    <string name="success">Success!</string>
+    <string name="notes_has_been_added">Notes has been added</string>
+    <string name="caution">Caution!</string>
+    <string name="do_you_want_to_delete_the_note">Do you want to delete the note?</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="notes_has_been_edited">Notes has been edited</string>
+    <string name="about">About</string>
+    <string name="aplikasi_ini_merupakan_projek_akhir_kelas_pbm_b">Aplikasi ini merupakan projek akhir kelas PBM B</string>
+    <string name="aplikasi_dibuat_oleh">"Aplikasi dibuat oleh: "</string>
+    <string name="ahmad_faqih_al_ghiffary">Ahmad Faqih Al Ghiffary</string>
+    <string name="muhammad_rizky_hidayah_akbar">Muhammad Rizky Hidayah Akbar</string>
+</resources>
