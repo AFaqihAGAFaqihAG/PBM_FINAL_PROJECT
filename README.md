@@ -17,7 +17,7 @@ Saat tombol untuk menambah catatan, muncul tampilan seperti dibawah ini, Terdapa
 <img src="TambahNoteBaru.jpg" width="300" alt="Tambah Catatan Baru">
 
 ### Tampilan Ketika Berhasil Ditambah
-Setelah menekan tombol untuk menambahkan catatan, akan diberitahukan bahwa catatan berhasil ditambahkan
+Setelah menekan tombol "Add Note", akan diberitahukan bahwa catatan berhasil ditambahkan
 
 <img src="BerhasilDitambah.jpg" width="300" alt="Tampilan Ketika Berhasil Ditambah">
 
